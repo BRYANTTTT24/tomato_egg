@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-  fmt.Println("hell.git")
+  fmt.Println("hello.git")
   }
 
 
